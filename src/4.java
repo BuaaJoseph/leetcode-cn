@@ -1,8 +1,3 @@
-/*
- * @Description: 
- * @Date: 2020-01-08 21:25:46
- * @Author: duchangchun
- */
 /**
  * 给定两个大小为 m 和 n 的有序数组 nums1 和 nums2。
  * 
